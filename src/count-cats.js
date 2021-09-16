@@ -24,4 +24,4 @@ export default function countCats(backyard) {
         }
       }
           return number;
-        }пше
+        }
